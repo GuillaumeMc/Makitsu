@@ -1,0 +1,17 @@
+{
+  "name": "makitsu",
+  "version": "V1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "mongoose": "^6.9.0",
+    "openai": "^4.52.1"
+  }
+}
